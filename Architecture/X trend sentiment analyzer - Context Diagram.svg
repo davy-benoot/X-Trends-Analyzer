@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   sodipodi:docname="X trend sentiment analyzer - Context Diagram.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.4770342"
+     inkscape:cx="315.15857"
+     inkscape:cy="342.57838"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <rect
+       x="210.16431"
+       y="237.93089"
+       width="125.42836"
+       height="66.065318"
+       id="rect969" />
+    <rect
+       x="143.14152"
+       y="143.62026"
+       width="68.937723"
+       height="88.087092"
+       id="rect330" />
+    <rect
+       x="143.14152"
+       y="143.62026"
+       width="68.937723"
+       height="88.087092"
+       id="rect1037" />
+    <rect
+       x="210.16431"
+       y="237.93089"
+       width="125.42836"
+       height="66.065318"
+       id="rect1097" />
+    <rect
+       x="210.16431"
+       y="237.93089"
+       width="125.42836"
+       height="66.065318"
+       id="rect1103" />
+    <rect
+       x="210.16431"
+       y="237.93089"
+       width="125.42836"
+       height="66.065318"
+       id="rect1109" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="rect111"
+       style="fill:#ececec;stroke:#333333;stroke-width:0.264583"
+       d="m 108.80539,21.406217 a 5.3199339,5.383266 0 0 0 -5.32009,5.383651 5.3199339,5.383266 0 0 0 1.89756,4.116545 H 96.898619 V 57.63243 H 120.71164 V 30.906413 h -8.48372 a 5.3199339,5.383266 0 0 0 1.89756,-4.116545 5.3199339,5.383266 0 0 0 -5.32009,-5.383651 z" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,61.939228,-4.0532828)"
+       id="text328"
+       style="white-space:pre;shape-inside:url(#rect330);shape-padding:0.478734;display:inline;fill:#ececec;stroke:#333333"><tspan
+         x="143.62109"
+         y="155.04757"
+         id="tspan1157">User: </tspan><tspan
+         x="143.62109"
+         y="170.04757"
+         id="tspan1159">Needs </tspan><tspan
+         x="143.62109"
+         y="185.04757"
+         id="tspan1161">insight in X </tspan><tspan
+         x="143.62109"
+         y="200.04757"
+         id="tspan1163">trends &amp; </tspan><tspan
+         x="143.62109"
+         y="215.04757"
+         id="tspan1165">sentiment</tspan></text>
+    <path
+       id="rect436"
+       style="fill:#808080;stroke:#333333;stroke-width:0.264583"
+       d="m 45.409465,62.192529 v 11.466483 h -2.055689 l 2.136304,3.700033 2.135787,3.700032 2.136304,-3.700032 2.136304,-3.700033 H 49.842786 V 62.192529 Z" />
+    <rect
+       style="fill:#80b3ff;stroke:#333333;stroke-width:0.264583"
+       id="rect545"
+       width="37.492867"
+       height="18.239773"
+       x="88.412231"
+       y="83.598961" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;text-align:center;text-anchor:middle;white-space:pre;inline-size:25.1651;display:inline;fill:#80b3ff;stroke:#333333;stroke-width:0.264583"
+       x="47.79546"
+       y="90.312202"
+       id="text705"
+       transform="matrix(1.2404551,0,0,1.2404551,48.06685,-24.017477)"><tspan
+         x="47.79546"
+         y="90.312202"
+         id="tspan1167">Database:</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;text-align:center;text-anchor:middle;fill:#80b3ff;stroke:#333333;stroke-width:0.264583"
+       x="107.45472"
+       y="93.73217"
+       id="text767"><tspan
+         sodipodi:role="line"
+         style="text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="107.45472"
+         y="93.73217"
+         id="tspan763">Contains X trend</tspan><tspan
+         sodipodi:role="line"
+         style="text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="107.45472"
+         y="97.70092"
+         id="tspan765">data</tspan></text>
+    <rect
+       style="fill:#55ffdd;stroke:#333333;stroke-width:0.264583"
+       id="rect802"
+       width="37.492867"
+       height="18.239773"
+       x="27.739655"
+       y="83.598961" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;text-align:center;text-anchor:middle;white-space:pre;inline-size:25.1651;display:inline;fill:#80b3ff;stroke:#333333;stroke-width:0.264583"
+       x="47.79546"
+       y="90.312202"
+       id="text806"
+       transform="matrix(1.2404551,0,0,1.2404551,-12.605726,-24.017477)"><tspan
+         x="47.79546"
+         y="90.312202"
+         id="tspan1169">Job sheduler:</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;text-align:center;text-anchor:middle;fill:#80b3ff;stroke:#333333;stroke-width:0.264583"
+       x="46.782139"
+       y="93.73217"
+       id="text812"><tspan
+         sodipodi:role="line"
+         style="text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="46.782139"
+         y="93.73217"
+         id="tspan810">Triggers &amp; runs</tspan><tspan
+         sodipodi:role="line"
+         style="text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="46.782139"
+         y="97.70092"
+         id="tspan1039">ELT flow</tspan></text>
+    <path
+       id="path918"
+       style="fill:#808080;stroke:#333333;stroke-width:0.264583"
+       d="m 45.662795,106.65198 v 11.46648 h -2.055689 l 2.136304,3.70003 2.135787,3.70004 2.136304,-3.70004 2.136304,-3.70003 h -2.055689 v -11.46648 z" />
+    <rect
+       style="fill:#55ffdd;stroke:#333333;stroke-width:0.264583"
+       id="rect957"
+       width="37.492867"
+       height="18.239773"
+       x="29.386301"
+       y="127.29842" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;text-align:center;text-anchor:middle;white-space:pre;inline-size:36.1401;display:inline;fill:#80b3ff;stroke:#333333;stroke-width:0.264583"
+       x="47.79546"
+       y="90.312202"
+       id="text961"
+       transform="matrix(1.2404551,0,0,1.2404551,-10.95908,19.681978)"><tspan
+         x="47.79546"
+         y="90.312202"
+         id="tspan1171">X Trends website</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;text-align:center;text-anchor:middle;fill:#80b3ff;stroke:#333333;stroke-width:0.264583"
+       x="48.428783"
+       y="137.43163"
+       id="text965"><tspan
+         sodipodi:role="line"
+         style="text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="48.428783"
+         y="137.43163"
+         id="tspan963">HTML Source of</tspan><tspan
+         sodipodi:role="line"
+         style="text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="48.428783"
+         y="141.40038"
+         id="tspan975">X Trends</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,63.332543,1.3933159)"
+       id="text967"
+       style="text-align:start;white-space:pre;shape-inside:url(#rect969);display:inline;fill:#55ffdd;stroke:#333333"
+       x="-36.518555"
+       y="0"><tspan
+         x="210.16406"
+         y="248.8796"
+         id="tspan1173">Provides X trends &amp; </tspan><tspan
+         x="210.16406"
+         y="263.8796"
+         id="tspan1175">their date &amp; time</tspan></text>
+    <path
+       id="path973"
+       style="fill:#808080;stroke:#333333;stroke-width:0.264583"
+       d="m 67.639662,94.555035 h 11.46648 v 2.05569 l 3.70003,-2.13631 3.70004,-2.13578 -3.70004,-2.13631 -3.70003,-2.1363 v 2.05569 h -11.46648 z" />
+    <path
+       id="path1029"
+       style="fill:#808080;stroke:#333333;stroke-width:0.264583"
+       d="m 106.01159,61.016641 v 11.466482 h -2.05569 l 2.13631,3.700033 2.13578,3.700033 2.13631,-3.700033 2.1363,-3.700032 -2.05569,-10e-7 V 61.016641 Z" />
+    <path
+       id="path1031"
+       style="fill:#ececec;stroke:#333333;stroke-width:0.264583"
+       d="m 46.866162,21.406217 a 5.3199339,5.383266 0 0 0 -5.32009,5.383651 5.3199339,5.383266 0 0 0 1.89756,4.116545 H 34.959391 V 57.63243 H 58.772412 V 30.906413 h -8.48372 a 5.3199339,5.383266 0 0 0 1.89756,-4.116545 5.3199339,5.383266 0 0 0 -5.32009,-5.383651 z" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,4.7687309e-7,-4.0532828)"
+       id="text1035"
+       style="white-space:pre;shape-inside:url(#rect1037);shape-padding:0.478734;display:inline;fill:#ececec;stroke:#333333"><tspan
+         x="143.62109"
+         y="155.04757"
+         id="tspan1177">System </tspan><tspan
+         x="143.62109"
+         y="170.04757"
+         id="tspan1179">admin:
+</tspan><tspan
+         x="143.62109"
+         y="185.04757"
+         id="tspan1181">Configures </tspan><tspan
+         x="143.62109"
+         y="200.04757"
+         id="tspan1183">follow-up </tspan><tspan
+         x="143.62109"
+         y="215.04757"
+         id="tspan1185">jobs</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,12.638333,40.44398)"
+       id="text1095"
+       style="text-align:start;white-space:pre;shape-inside:url(#rect1097);display:inline;fill:#55ffdd;stroke:#333333"
+       x="-36.518555"
+       y="0"><tspan
+         x="210.16406"
+         y="248.8796"
+         id="tspan1187">Provides X trends </tspan><tspan
+         x="210.16406"
+         y="263.8796"
+         id="tspan1189">date to and </tspan><tspan
+         x="210.16406"
+         y="278.8796"
+         id="tspan1191">transforms the data</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-24.262753,49.758817)"
+       id="text1101"
+       style="text-align:start;white-space:pre;shape-inside:url(#rect1103);display:inline;fill:#55ffdd;stroke:#333333"
+       x="-36.518555"
+       y="0"><tspan
+         x="210.16406"
+         y="248.8796"
+         id="tspan1193">Uses</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-23.90449,4.9759461)"
+       id="text1107"
+       style="text-align:start;white-space:pre;shape-inside:url(#rect1109);display:inline;fill:#55ffdd;stroke:#333333"
+       x="-36.518555"
+       y="0"><tspan
+         x="210.16406"
+         y="248.8796"
+         id="tspan1195">Uses</tspan></text>
+  </g>
+</svg>
